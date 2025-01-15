@@ -1,0 +1,8 @@
+1. add information of featured 4 stars on every banner, rate up
+2. include step 1 in 50-50LostCheck.py, and update excel sheets
+3. extract info of every weapon banner with seperate rate up 4 stars
+4. use baseline of 50-50LostCheck.py to create one for weapon banner including 4 stars
+5. feature engineering and extraction to make usable features for model, need to predict 5 star pity, time window during which chance is higher for receiving 5star, pity on which the 5 star will come in gacha, and check for 50-50, chance of losing or winning based on history 
+6. seperate data into training, testing and cross validation
+7. create a model using time series for character banner and weapon banner(seperate)
+8. test model for accuracy metrics
